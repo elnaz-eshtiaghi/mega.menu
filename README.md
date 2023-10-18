@@ -4,7 +4,7 @@
 
 ![sticky (2)](https://github.com/elnaz-eshtiaghi/trick.2/assets/146030206/529d4edf-dce6-429a-b553-c26f8701bc8f)
 
-- [Demo Project]([https://elnaz-eshtiaghi.github.io/trick.2/](https://elnaz-eshtiaghi.github.io/mega.menu/))
+- [Demo Project]((https://elnaz-eshtiaghi.github.io/mega.menu/)
 
 - Developed by elnaz eshtiyaghi
 
