@@ -6,7 +6,7 @@
 
 - [Demo Project](https://elnaz-eshtiaghi.github.io/mega.menu/)
 
-- Developed by elnaz eshtiyaghi
+- Developed by elnaz eshtiaghi
 
 - Created - 2023
 
